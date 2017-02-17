@@ -1,0 +1,89 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1479856159737,
+        "modified": 1479856159737,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "icon.png": {
+        "previousModTime": 1479856159755,
+        "modified": 1479856159755,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1479856159750,
+        "modified": 1479856159750,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1479856159738,
+        "modified": 1479856159738,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1479856159738,
+        "modified": 1479856159738,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1479856159739,
+        "modified": 1479856159739,
+        "seen": true,
+        "name": "README.md"
+      },
+      "Temperature.xdk": {
+        "previousModTime": 1479856160229,
+        "modified": 1479856160229,
+        "seen": true,
+        "name": "Temperature.xdk"
+      },
+      "Temperature.xdke": {
+        "previousModTime": 1479856193905,
+        "modified": 1479856193905,
+        "seen": true,
+        "name": "Temperature.xdke"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1479856160094,
+        "modified": 1479856160094,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "icon.png": {
+        "previousModTime": 1479856235311
+      },
+      "LICENSE.md": {
+        "previousModTime": 1479856235311
+      },
+      "main.js": {
+        "previousModTime": 1479856235311
+      },
+      "package.json": {
+        "previousModTime": 1479856235311
+      },
+      "README.md": {
+        "previousModTime": 1479856235311
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1479856235311
+      }
+    }
+  }
+}
